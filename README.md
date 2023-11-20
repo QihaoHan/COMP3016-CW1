@@ -21,7 +21,7 @@ activity diagram: <br/>
 
 
 ## Video Link
-
+YouTube: https://youtu.be/eCIRjhZxsu0
 
 ## Git Repository
 GitHub: https://github.com/QihaoHan/COMP3016-CW1
