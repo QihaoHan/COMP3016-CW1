@@ -16,14 +16,8 @@ activity diagram: <br/>
 ![Screenshot](UML/activity_diagram.jpg)
 
 
-## Exception Handling and Test Cases
-1. Input Validation: The code checks for valid user input when players enter coordinates. If the input is invalid (e.g., non-integer or already occupied position), it prompts the user to re-enter the coordinates until valid input is provided.
+## Test
 
-2. Game Termination: The game loop continues until a player wins. Once a player wins, the corresponding message is displayed, and the game exits.
-
-3. Out of Bounds: The `isInChessBoard` method checks if the provided coordinates are within the bounds of the chessboard.
-
-4. Line Detection: The `isLine` method checks for a line of five consecutive pieces in all possible directions.
 
 ## Further Details
 The game is a simple console based chess game. Two players take turns at the console to input the board coordinates. When the pieces meet the horizontal line, vertical line, diagonal line five pieces link to win.
