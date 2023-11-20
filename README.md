@@ -19,8 +19,6 @@ activity diagram: <br/>
 ## Test
 
 
-## Further Details
-The game is a simple console based chess game. Two players take turns at the console to input the board coordinates. When the pieces meet the horizontal line, vertical line, diagonal line five pieces link to win.
 
 ## Video Link
 - [Unlisted YouTube Video](#) (Replace with the actual link)
