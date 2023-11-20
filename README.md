@@ -9,11 +9,11 @@ The code implements a simple console-based two-player pentoku game. Players A an
 
 ## UML Design Diagram
 use case diagram: <br/>
-![Screenshot](usecase_diagram.jpg)<br/>
+![Screenshot](UML/usecase_diagram.jpg)<br/>
 class diagram: <br/>
-![Screenshot](class_diagram.jpg)<br/>
+![Screenshot](UML/class_diagram.jpg)<br/>
 activity diagram: <br/>
-![Screenshot](activity_diagram.jpg)
+![Screenshot](UML/activity_diagram.jpg)
 
 
 ## Exception Handling and Test Cases
