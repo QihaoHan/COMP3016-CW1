@@ -24,4 +24,4 @@ activity diagram: <br/>
 
 
 ## Git Repository
-[GitHub](https://github.com/QihaoHan/COMP3016-CW1)
+GitHub: https://github.com/QihaoHan/COMP3016-CW1
