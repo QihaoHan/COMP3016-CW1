@@ -1,7 +1,7 @@
 # COMP3016 Coursework1
 
 ## System Version
-Visual Studio Version: 17.1.0<br/>
+Visual Studio Version: Visual Studio 2022(17.1.0)<br/>
 Operating System Version: Windows 10 Home Chinese version (version number 22H2)
 
 ## Description
