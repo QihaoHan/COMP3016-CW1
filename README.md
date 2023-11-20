@@ -21,7 +21,7 @@ activity diagram: <br/>
 
 
 ## Video Link
-- [Unlisted YouTube Video](#) (Replace with the actual link)
+
 
 ## Git Repository
 [GitHub](https://github.com/QihaoHan/COMP3016-CW1)
